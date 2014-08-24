@@ -1,0 +1,31 @@
+/*
+ Theme Name:   Ward, Warder, ...
+ Theme URI:    http://aintgotno.com/URI/
+ Description:  Ward Child Theme
+ Author:       Sameer Siruguri
+ Author URI:   http://www.dstrategies.org/
+ Template:     ward
+ Version:      0.1
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  warder-ward-child
+*/
+
+@import url("../ward/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #cccccc;
+}
+.navbar-inverse .navbar-brand {
+  color: #cccccc;
+}
+
+#main {
+    margin-top: 10px;
+}
+
+.jumbotron {
+    padding-top: 10px;
+}
