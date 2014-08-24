@@ -4,7 +4,7 @@ This is the Wordpress theme for the OpenReferral.org website.
 
 ## Demo
 You can see a running version of this theme at
-[http://openreferral.org/](http://openreferral.org).
+[http://openreferral.org](http://openreferral.org).
 
 ## Installation
 
